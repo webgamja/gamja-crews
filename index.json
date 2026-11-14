@@ -22,14 +22,14 @@
       "author": "GAMJA",
       "license": "Apache-2.0",
       "official": true,
-      "latest": "3.2",
+      "latest": "3.2.0",
       "hash": "fdbd1f7d35af2755",
       "old": [
         "8b1c6269717d10be",
         "6020468a72b89482"
       ],
       "versions": [
-        "3.2"
+        "3.2.0"
       ]
     },
     {
@@ -51,13 +51,13 @@
       "author": "GAMJA",
       "license": "Apache-2.0",
       "official": true,
-      "latest": "1.1",
+      "latest": "1.1.0",
       "hash": "52a3e3fc38b17cf7",
       "old": [
         "e1b2de7056e9bf69"
       ],
       "versions": [
-        "1.1"
+        "1.1.0"
       ]
     }
   ]

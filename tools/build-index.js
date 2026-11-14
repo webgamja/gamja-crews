@@ -8,7 +8,7 @@ const crypto = require('crypto');
 const ROOT = path.join(__dirname, '..');
 const MAX_BYTES = 64 * 1024;
 const ID_RE = /^[a-z0-9][a-z0-9-]{1,38}[a-z0-9]$/;
-const VER_RE = /^\d{1,3}(\.\d{1,3}){0,2}$/;
+const VER_RE = /^\d{1,3}\.\d{1,3}\.\d{1,3}$/; // 버전은 n.n.n
 const hash = (t) => crypto.createHash('sha256').update(t).digest('hex').slice(0, 16);
 const errors = [];
 const err = (m) => errors.push(m);
