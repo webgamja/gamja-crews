@@ -1,0 +1,36 @@
+{
+  "format": "gamja-crews",
+  "version": 1,
+  "crews": [
+    {
+      "id": "c-site",
+      "name": {
+        "ko": "홈페이지"
+      },
+      "blurb": {
+        "ko": "소개 페이지, 문의 폼, 서비스 안내"
+      },
+      "icon": "🌐",
+      "group": "company",
+      "examples": {
+        "ko": [
+          "우리 회사 소개 페이지 만들어 줘",
+          "문의하기 폼이 있는 한 장짜리 사이트로 바꿔 줘",
+          "모바일에서 더 보기 좋게 고쳐 줘"
+        ]
+      },
+      "author": "GAMJA",
+      "license": "Apache-2.0",
+      "official": true,
+      "latest": "3.2",
+      "hash": "fdbd1f7d35af2755",
+      "old": [
+        "8b1c6269717d10be",
+        "6020468a72b89482"
+      ],
+      "versions": [
+        "3.2"
+      ]
+    }
+  ]
+}

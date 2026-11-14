@@ -1,0 +1,4 @@
+# Only maintainers decide which crews are official (🌱 badge).
+/OFFICIAL.json @webgamja/maintainers
+/.github/ @webgamja/maintainers
+/tools/ @webgamja/maintainers
