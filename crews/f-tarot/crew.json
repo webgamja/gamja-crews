@@ -1,0 +1,23 @@
+{
+  "id": "f-tarot",
+  "name": {
+    "ko": "타로"
+  },
+  "icon": "🃏",
+  "blurb": {
+    "ko": "고민에 맞는 카드를 뽑아 풀이해요"
+  },
+  "examples": {
+    "ko": [
+      "오늘의 카드 한 장 뽑아 줘",
+      "처음 왔어요. 나를 소개할게요"
+    ]
+  },
+  "group": "fun",
+  "author": "GAMJA",
+  "license": "Apache-2.0",
+  "latest": "1.1",
+  "old": [
+    "e1b2de7056e9bf69"
+  ]
+}

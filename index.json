@@ -31,6 +31,34 @@
       "versions": [
         "3.2"
       ]
+    },
+    {
+      "id": "f-tarot",
+      "name": {
+        "ko": "타로"
+      },
+      "blurb": {
+        "ko": "고민에 맞는 카드를 뽑아 풀이해요"
+      },
+      "icon": "🃏",
+      "group": "fun",
+      "examples": {
+        "ko": [
+          "오늘의 카드 한 장 뽑아 줘",
+          "처음 왔어요. 나를 소개할게요"
+        ]
+      },
+      "author": "GAMJA",
+      "license": "Apache-2.0",
+      "official": true,
+      "latest": "1.1",
+      "hash": "52a3e3fc38b17cf7",
+      "old": [
+        "e1b2de7056e9bf69"
+      ],
+      "versions": [
+        "1.1"
+      ]
     }
   ]
 }
