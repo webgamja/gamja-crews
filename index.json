@@ -51,13 +51,15 @@
       "author": "GAMJA",
       "license": "Apache-2.0",
       "official": true,
-      "latest": "1.1.0",
-      "hash": "52a3e3fc38b17cf7",
+      "latest": "1.2.0",
+      "hash": "ba29699e3ec9f6ef",
       "old": [
-        "e1b2de7056e9bf69"
+        "e1b2de7056e9bf69",
+        "52a3e3fc38b17cf7"
       ],
       "versions": [
-        "1.1.0"
+        "1.1.0",
+        "1.2.0"
       ]
     }
   ]
